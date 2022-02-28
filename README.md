@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MOSiHiHi
+- 👋 Hi, I’m Mostafa.
 - 👀 I’m interested in everything I thnk?!
 - 🌱 I’m currently learning Git & Python.
 - 💞️ I’m looking to collaborate on nothing yet.
