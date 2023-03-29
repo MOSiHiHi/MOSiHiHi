@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mostafa.
-- 👀 I’m interested in everything I thnk?!
+- 👀 I’m interested in everything I think?!
 - 🌱 I’m currently learning Git & Python.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 Pm me in <a href="https://t.me/Ecsprt">Telegram<a>!
