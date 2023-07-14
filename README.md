@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Git & Python.
 - 💞️ I’m looking to collaborate on nothing yet.
 - 📫 Pm me in <a href="https://t.me/Ecsprt">Telegram<a>!
-> [!NOTE] Test
+> ℹ️ Test
 > This is a test.
 <!---
 MOSiHiHi/MOSiHiHi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
